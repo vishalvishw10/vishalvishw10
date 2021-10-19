@@ -46,7 +46,5 @@ I am **Vishal Vishwakarma** aka **rootxvishal** 👨‍💻  a Security Research
 [![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40vishalvishw10&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fh4r5h1t_hrs)](https://twitter.com/Vishalvishw10) 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=vishalvishw10&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t-hrs%2F)](https://www.linkedin.com/in/vishalvishw10/) 
 [![Instagram](https://img.shields.io/twitter/url?color=1ca0f1&label=rootxvishal&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fh4r5h1t.hrs%2F)](https://www.instagram.com/rootxvishal/)
-[![GitHub followers](https://img.shields.io/twitter/url?color=1ca0f1&label=vishalvishw10&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t-hrs%3Ftab%3Dfollowers)](https://github.com/vishalvishw10?tab=followers)
+[![GitHub followers](https://img.shields.io/twitter/url?color=1ca0f1&label=vishalvishw10&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t-hrs%3Ftab%3Dfollowers)](https://github.com/vishalvishw10/)
 
-
-![](https://komarev.com/ghpvc/?username=h4r5h1t-hrs&color=brightgreen)
