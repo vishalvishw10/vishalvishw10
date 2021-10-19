@@ -1,90 +1,52 @@
-# Welcome to GitHub
+#  Harshit Raj Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
+<img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif">
+Thank You for taking the time to view my GitHub Profile 🙂: 
 
-## Repositories
+## 👽 wh04m1 ? 🤔 
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+I am **Vishal Vishwakarma** aka **rootxvishal** 👨‍💻  a Security Researcher 💻 and a Python Programmer 🐍 , I love 💖 automating ⚙️ boring stuff and contributing to the infosec community 🌐.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+ 
+### Skills <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br>
+<p align="right">
+ <img src="https://media.giphy.com/media/JOLlBirHkuoVRPOMnZ/giphy.gif" width="30%" align="right">
+</p>
+- ✔️ Web Application & Network Penetration Testing <br>
+- ✔️ IT Support & Automation <br>
+- ✔️ Networking Security <br>
+- ✔️ OSINT <br>
+- ✔️ Playing CTFs and completing rooms
+- ✔️ <b>Languages:</b> Python, Shell Scripting, HTML, CSS, Javascript, C/C++ <br>
+- ✔️ <b>OS:</b> Linux (Kali, Ubuntu) & Windows <br>
+- ✔️ <b>Tools:</b> Nmap, Maltego, Burpsuite, Wireshark, CISCO Packet Tracer
+- ✔️ Version Control (Git & Github) <br>
+- ✔️ Wordpress, Elementor, Bootstrap Studio <br>
+- ✔️ Automating boring stuff with Programming <br>
+<br>
+  <div> 
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+    <img width = '88px'  src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/> 
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"/>
+    <img width = '34px'  src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/> 
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
+    <img width = '33px'  src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
+    <img width = '42px'  src="https://cdn.worldvectorlogo.com/logos/arduino.svg"/>
+    <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/>
+    <img width = '142px'  src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg"/>
+  </div>
+  
+### Connect with me on<img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
-
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
-
-## Your first website
-
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
-
-[Learn more about GitHub Pages](https://pages.github.com/)
-
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
-
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+[![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40h4r5h1t_hrs&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fh4r5h1t_hrs)](https://twitter.com/h4r5h1t_hrs) 
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fh4r5h1t-hrs%2F)](https://www.linkedin.com/in/h4r5h1t-hrs/) 
+[![Instagram](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t.hrs&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fh4r5h1t.hrs%2F)](https://www.instagram.com/h4r5h1t.hrs/)
+[![GitHub followers](https://img.shields.io/twitter/url?color=1ca0f1&label=h4r5h1t-hrs&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fh4r5h1t-hrs%3Ftab%3Dfollowers)](https://github.com/h4r5h1t-hrs?tab=followers)
 
 
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+![](https://komarev.com/ghpvc/?username=h4r5h1t-hrs&color=brightgreen)
