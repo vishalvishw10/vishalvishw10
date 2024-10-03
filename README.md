@@ -24,8 +24,8 @@ Welcome to my cyber realm! 👨‍💻 As a passionate advocate for cyber securi
 
 ## 📚 Latest Blog Posts
 
-- [Exploring the Intricacies of Cross-Site Scripting (XSS)](https://yourbloglink.com/xss-exploration)
-- [Demystifying Encryption: From Symmetric to Asymmetric](https://yourbloglink.com/encryption-demystified)
+- [Simple Bugs — Buying Everything for Free!!!](https://infosecwriteups.com/simple-bugs-buying-everything-for-free-7d1129e083c8)
+- [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e)
 
 ## 🌐 Connect with Me
 
